@@ -12,6 +12,8 @@ I would like to see what the seasonality is of the BTC trading volume.
 
 In this project we use historical btc data which can be found on kaggle.
 
+https://www.kaggle.com/mczielinski/bitcoin-historical-data
+
 ## Result
 
 ![seasonality](imgs/seasonality.png)
